@@ -22,7 +22,6 @@ firebase-debug.*.log
 firebase-service-account.json
 
 # Public hosting output (if generated during build/deploy)
-public/
 
 # Coverage output from test runners like Jest
 /coverage/
